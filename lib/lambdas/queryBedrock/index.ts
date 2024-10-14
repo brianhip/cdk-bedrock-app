@@ -62,7 +62,6 @@ export const handler = async (event: any): Promise<any> => {
 
     6. Timestamp Analysis:
       - Comment on the timestamp of the data and its relevance
-
     Please provide your analysis in a clear, structured format using markdown for better readability.`;
 
     /**
